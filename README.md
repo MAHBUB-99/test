@@ -1,4 +1,4 @@
-# Next.js Development Guideline
+# Next.js Development Guidelineeeeeeeeeee
 
 A comprehensive guideline to help developers get started with Next.js, understand its core concepts, and follow best practices for building scalable and performant React applications with server-side rendering (SSR) and static site generation (SSG).
 
